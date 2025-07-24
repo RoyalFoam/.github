@@ -1,6 +1,6 @@
 # Royal Foam Guidelines
 
-- Design
+- [Design](profile/design.md)
 - Content
 - Development
 
