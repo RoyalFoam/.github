@@ -1,4 +1,11 @@
-# .githubGoogle AI-powered Search & Использование AI
+# Royal Foam Guidelines
+
+- Design
+- Content
+- Development
+
+
+Google AI-powered Search & Использование AI
 🔎 Google AI-powered Search: Оптимизация
 Чтобы оптимизировать контент под Google AI-powered search (например, SGE — Search Generative Experience), используйте актуальные стратегии:
 
